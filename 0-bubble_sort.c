@@ -16,7 +16,7 @@ void _swap(int *num1, int *num2)
 }
 
 /**
- * bubble_sort - sorts an array of integers in 
+ * bubble_sort - sorts an array of integers in
  * ascending order using the Bubble sort algorithm
  * @array: array of integers to be sorted
  * @size: size of the array to be sorted
